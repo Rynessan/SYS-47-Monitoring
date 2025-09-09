@@ -15,8 +15,10 @@
 
 ### Решение
 
-1.
-2. Команды, которые использовались для установки `zabbix server`
+1. Скриншоты админки:
+> ![img](img/Zabbix_authorization.png)
+
+3. Команды, которые использовались для установки `zabbix server`
 > wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_7.0+debian12_all.deb \
 dpkg -i zabbix-release_latest_7.0+debian12_all.deb \
 apt update \
